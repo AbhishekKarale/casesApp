@@ -16,7 +16,7 @@ features:
   image: images/watch-2.png
   left_side:
   - title: Store Anonymised Cases
-    icon: ''
+    icon: tf-ion-ios-file-tray-full
     content: Add Case details, learning points and images
   - title: Organise via Tags
     icon: tf-ion-ios-bookmark
