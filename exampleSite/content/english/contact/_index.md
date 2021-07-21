@@ -6,8 +6,7 @@ office:
   mobile: ''
   email: ''
   location: ''
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
+  content: ''
 opennig_hour:
   title: Opening Hours
   day_time: []
