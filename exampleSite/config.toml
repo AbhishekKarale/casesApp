@@ -1,5 +1,5 @@
 baseurl = "http://casesapp.io"
-disableLanguages = ["1", "YES"]
+disableLanguages = ["TRUE"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
