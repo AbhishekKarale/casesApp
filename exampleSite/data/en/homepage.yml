@@ -18,14 +18,12 @@ features:
   - title: Store Anonymised Cases
     icon: ''
     content: Add Case details, learning points and images
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Organise via Tags
+    icon: tf-ion-ios-bookmark
+    content: Search by Tags or Case Name
+  - title: Data locally stored
+    icon: tf-ion-ios-lock-closed
+    content: 'Data is stored locally on the device. '
   right_side: []
 promo:
   enable: false
