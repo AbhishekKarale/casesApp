@@ -5,7 +5,7 @@ banner:
   content: 'Cases : is an iOS App that allows you to keep a track of interesting medical
     cases for your own learning. Data is stored locally on the device. Add Anonymised
     details about the case, along with images, and organise by tags.'
-  image: images/watch.png
+  image: "/images/icon.png"
   button:
     enable: true
     label: Download
